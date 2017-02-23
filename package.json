@@ -1,0 +1,24 @@
+{
+  "name": "caesar",
+  "version": "0.0.0",
+  "description": "One of the simplest forms of encryption",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:bukinoshita/caesar.git",
+    "type": "git"
+  },
+  "author": "Bu Kinoshita <bukinoshita@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "xo && ava -v"
+  },
+  "devDependencies": {
+    "ava": "^0.18.2",
+    "xo": "^0.17.1"
+  },
+  "xo": {
+    "space": true,
+    "semicolon": false,
+    "esnext": true
+  }
+}
