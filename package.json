@@ -1,5 +1,5 @@
 {
-  "name": "caesar",
+  "name": "caesar-encrypt",
   "version": "0.0.0",
   "description": "One of the simplest forms of encryption",
   "main": "index.js",

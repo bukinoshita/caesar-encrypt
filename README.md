@@ -1,4 +1,4 @@
-# caesar
+# caesar-encrypt
 > One of the simplest forms of encryption
 
 [![Codeship Status for bukinoshita/caesar](https://app.codeship.com/projects/0165eea0-dc14-0134-a8b9-721cd3f7afb3/status?br nch=master)](https://app.codeship.com/projects/204204)
@@ -22,7 +22,7 @@ decrypt('opu.nz.qbttxpse', 1)
 ```
 
 ## API
-### caesar
+### caesar-encrypt
 
 ### encrypt(input, shift)
 
