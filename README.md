@@ -2,6 +2,7 @@
 > One of the simplest forms of encryption
 
 [![Codeship Status for bukinoshita/caesar](https://app.codeship.com/projects/0165eea0-dc14-0134-a8b9-721cd3f7afb3/status?br nch=master)](https://app.codeship.com/projects/204204)
+[![Build Status](https://travis-ci.org/bukinoshita/caesar.svg?branch=master)](https://travis-ci.org/bukinoshita/caesar)
 [![GitHub release](https://img.shields.io/github/release/bukinoshita/caesar.svg)](https://www.npmjs.com/package/caesar)
 [![license](https://img.shields.io/github/license/bukinoshita/caesar.svg)](https://raw.githubusercontent.com/bukinoshita/caesar/master/LICENSE)
 
