@@ -26,11 +26,11 @@ decrypt('opu.nz.qbttxpse', 1)
 ### .encrypt(input, shift)
 
 #### input
-Type: string<br/>
+Type: `string`<br/>
 Required
 
 #### shift
-Type: number<br/>
+Type: `number`<br/>
 Required
 
 shift should be a number between 1-26
@@ -39,11 +39,11 @@ shift should be a number between 1-26
 ### .decrypt(input, shift)
 
 #### input
-Type: string<br/>
+Type: `string`<br/>
 Required
 
 #### shift
-Type: number<br/>
+Type: `number`<br/>
 Required
 
 shift should be a number between 1-26
