@@ -16,6 +16,14 @@
     "ava": "^0.18.2",
     "xo": "^0.17.1"
   },
+  "keywords": [
+    "caesar",
+    "encrypt",
+    "encryption",
+    "caesar-encrypt",
+    "cipher",
+    "caesar-cipher"
+  ],
   "xo": {
     "space": true,
     "semicolon": false,
